@@ -1,0 +1,1 @@
+2020-10-21 15:19:58,326 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using NULL lifecycle mapping for MavenProject: com.howtodoinjava.demo:MavenExamples:0.0.1-SNAPSHOT @ /home/s247/eclipse-workspace/MavenExamples/pom.xml.
